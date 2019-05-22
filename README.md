@@ -6,7 +6,7 @@ As preliminary experiments we have tested our model against the datasets Scikit 
 * [Moons Notebook](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Moons%20Mesh%20Neural%20Network.ipynb)
 * [Iris Notebook](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Iris%20Mesh%20Neural%20Network.ipynb)
 
-The code is voluntarily left unoptimized in order to be coherent with the mathematical framework presented on the paper.
+The code is intentionally left unoptimized in order to be coherent with the mathematical framework presented on the paper.
 
 An optimized version is currently under development.
 
