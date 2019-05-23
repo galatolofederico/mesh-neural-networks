@@ -2,8 +2,15 @@
 
 This is the repository for the paper [Formal derivation of Mesh Neural Networks with their Forward-Only gradient Propagation](https://arxiv.org/abs/1905.06684) that is currently under peer review.
 
-As preliminary experiments we have tested our model against the datasets Scikit Moons and Iris:
-* [Moons Notebook](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Moons%20Mesh%20Neural%20Network.ipynb)
+
+| ![](examples/moons_training.gif) | ![](examples/circles_training.gif) |
+| --- | --- |
+| ![](examples/blobs_training.gif)   | ![](examples/blobs2_training.gif) |
+
+_All the above examples uses 5 hidden neurons_
+
+As preliminary experiments we have tested our model against some toy datasets:
+* [Scikit 2D Notebook](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Scikit%202D%20Mesh%20Neural%20Network.ipynb)
 * [Iris Notebook](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Iris%20Mesh%20Neural%20Network.ipynb)
 
 The code is intentionally left unoptimized in order to be coherent with the mathematical framework presented on the paper.
