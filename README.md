@@ -10,8 +10,8 @@ This is the repository for the paper [Formal derivation of Mesh Neural Networks 
 _All the above examples uses 5 hidden neurons_
 
 As preliminary experiments we have tested our model against some toy datasets:
-* [Scikit 2D Notebook](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Scikit%202D%20Mesh%20Neural%20Network.ipynb)
-* [Iris Notebook](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Iris%20Mesh%20Neural%20Network.ipynb)
+* [Scikit 2D Notebook](https://nbviewer.jupyter.org/github/galatolofederico/mesh-neural-networks/blob/master/examples/Scikit%202D%20Mesh%20Neural%20Network.ipynb)
+* [Iris Notebook](https://nbviewer.jupyter.org/github/galatolofederico/mesh-neural-networks/blob/master/examples/Iris%20Mesh%20Neural%20Network.ipynb)
 
 The code is intentionally left unoptimized in order to be coherent with the mathematical framework presented on the paper.
 
