@@ -17,6 +17,9 @@ As preliminary experiments we have tested our model against some toy datasets:
 * [2D Notebook](https://nbviewer.jupyter.org/github/galatolofederico/mesh-neural-networks/blob/master/examples/2D%20Mesh%20Neural%20Network.ipynb)
 * [Iris Notebook](https://nbviewer.jupyter.org/github/galatolofederico/mesh-neural-networks/blob/master/examples/Iris%20Mesh%20Neural%20Network.ipynb)
 
+We also provide this test notebook:
+* [Numerical Pytorch Test](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Numerical%20Test.ipynb)
+
 The code is intentionally left unoptimized in order to be coherent with the mathematical framework presented on the paper.
 
 An optimized version is currently under development.
