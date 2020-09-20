@@ -19,7 +19,6 @@ As preliminary experiments we have tested our model against some toy datasets:
 
 We also provide these additional notebooks:
 * [Numerical Pytorch Test](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/Numerical%20Test.ipynb)
-* [MNIST](https://github.com/galatolofederico/mesh-neural-networks/blob/master/examples/MNIST.ipynb)
 
 The code is intentionally left unoptimized in order to be coherent with the mathematical framework presented on the paper.
 
