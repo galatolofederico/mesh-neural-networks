@@ -38,10 +38,10 @@ python experiments.py --dataset-folder datasets/mnist --arch mlp --mlp-hidden 17
 
 Fashion MNIST
 ```
-python experiments.py --dataset-folder datasets/mnist --arch mnn --mnn-ticks 2 --mnn-hidden 50 --mnn-zero-prob 0.85
-python experiments.py --dataset-folder datasets/mnist --arch mnn --mnn-ticks 2 --mnn-hidden 50 --mnn-zero-prob 0.80
-python experiments.py --dataset-folder datasets/mnist --arch mlp --mlp-hidden 13
-python experiments.py --dataset-folder datasets/mnist --arch mlp --mlp-hidden 17
+python experiments.py --dataset-folder datasets/fashion --arch mnn --mnn-ticks 2 --mnn-hidden 50 --mnn-zero-prob 0.85
+python experiments.py --dataset-folder datasets/fashion --arch mnn --mnn-ticks 2 --mnn-hidden 50 --mnn-zero-prob 0.80
+python experiments.py --dataset-folder datasets/fashion --arch mlp --mlp-hidden 13
+python experiments.py --dataset-folder datasets/fashion --arch mlp --mlp-hidden 17
 ```
 
 A fully working **numpy only** implementation is also provided in the file `mnn-numpy.py`
