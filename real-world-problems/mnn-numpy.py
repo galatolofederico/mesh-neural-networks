@@ -3,7 +3,7 @@ import pickle
 from scipy.special import softmax
 
 
-dataset_folder = "datasets/mnist_exp"
+dataset_folder = "datasets/mnist"
 zero_prob=0.85
 inputs=32 + 1
 hidden=50
