@@ -163,7 +163,6 @@ for epoch in range(0, epochs):
         # Zero pruned weights
         A = A*A_mask
 
-    #if epoch % 50 == 0:
         print("epoch: %d  perc: %.2f loss: %f" % (epoch, (100*i/(len(train_X)//batch_size)), loss))
 
 
