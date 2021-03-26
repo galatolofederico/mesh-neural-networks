@@ -50,6 +50,7 @@ def train(args):
                     input = torch.cat((state[:, :args.mnn_hidden], batch_X), dim=1)
                     state = A(input)
                     state = torch.nn.functional.dropout(state, args.mnn_dropout_prob)
+                    state = torch.relu(state)
 
                 outs = torch.softmax(state[:,args.mnn_hidden:], dim=1)
 
