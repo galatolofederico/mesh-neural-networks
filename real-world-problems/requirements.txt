@@ -25,6 +25,6 @@ subprocess32==3.5.4
 torch==1.7.1
 torchvision==0.8.2
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==1.26.5
 wandb==0.10.12
 watchdog==1.0.2
