@@ -1,6 +1,6 @@
 # mesh-neural-networks
 
-This is the repository for the paper [Formal derivation of Mesh Neural Networks with their Forward-Only gradient Propagation](https://arxiv.org/abs/1905.06684) that is currently under peer review.
+This is the repository for the paper [Formal derivation of Mesh Neural Networks with their Forward-Only gradient Propagation](https://arxiv.org/abs/1905.06684)
 
 
 | ![](examples/moons_training.gif) | ![](examples/circles_training.gif) |
